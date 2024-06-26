@@ -11,7 +11,7 @@ import edu.wpi.first.wpilibj.DriverStation;
 import edu.wpi.first.wpilibj.RobotBase;
 import edu.wpi.first.wpilibj.internal.DriverStationModeThread;
 
-
+/** test comment
 
 /** Educational robot base class. Do NOT use for competitions. This is a simple robot used for teaching purposes. */
 public class EducationalRobot extends RobotBase
